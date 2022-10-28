@@ -1,7 +1,7 @@
 <h2 align="centre">Telegram Sohbet Mp3 Oynatıcı 🎵</h2>
 
 ### Güncellendi aktif.... 😇
-<p align="center">
+<p align="center">.
   <img src="https://telegra.ph/file/a4fa687ed647cfef52402.jpg">
 </p> 
 
