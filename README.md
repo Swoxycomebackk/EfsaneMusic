@@ -8,7 +8,7 @@
 <h3>Sürümler 📮</h3>
 
 - pyrogram Set according to your request
-
+.
 ### Komutlar Genel 🍭
 - `/play` - şarkı çalmak için youtube url'sine veya şarkı dosyasına yanıt verme
 - `/play` - istediğiniz şarkıyı çal
